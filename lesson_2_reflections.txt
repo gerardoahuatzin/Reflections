@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 When you initiate a new repository, git creates all the control files to keep track of the changes, you need them to keep track of your system development
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area helps prevent the changes to affect the final solution before it's tested, also it is a confirmation space, we want to be extremely sure we want to commit changes.
