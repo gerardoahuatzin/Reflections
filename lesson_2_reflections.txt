@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initiate a new repository, git creates all the control files to keep track of the changes, you need them to keep track of your system development
