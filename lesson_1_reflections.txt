@@ -10,3 +10,4 @@ How can you use the commands git log and git diff to view the history of files?
 type git log to see the history of the changes on the files and locate the change ID, then use git diff to check the changes made between the previous file and the next file.
 How might using version control make you more confident to make changes that could break something?
 Using versions help to keep track of changes and if something goes wrong, it can always be reverted, also helps find the latest working version fater, and to locate the error faster.
+I had to make some change to make a commit.
