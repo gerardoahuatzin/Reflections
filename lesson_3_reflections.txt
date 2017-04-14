@@ -6,3 +6,5 @@ Why might you want to always pull changes manually rather than having Git automa
 Because most of the local changes are the changes I am working in, so if someone else is working on the same files, there might be an inconsistency on the files, also if pulled automatically, my local changes might be lost without me knowing.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is an cloned branch, which will not affect the initial master of the project, colne will be able to affect the master branch if wanted, and branch is a sub-part of a master, which later can be added to master or deleted if it does not work and not affect the master.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This is good in order to avoid conflicts when merging.
