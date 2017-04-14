@@ -8,3 +8,5 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork is an cloned branch, which will not affect the initial master of the project, colne will be able to affect the master branch if wanted, and branch is a sub-part of a master, which later can be added to master or deleted if it does not work and not affect the master.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This is good in order to avoid conflicts when merging.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaboration without Git or GitHub can be complex in large projects, where there is a lot of programmers involved, for a 2 or 3 programmer collaboration, you can basically share files.
